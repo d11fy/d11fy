@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="360" viewBox="0 0 530 360" role="img" aria-labelledby="title desc">
+<title id="title">Ali Sohail — software developer</title><desc id="desc">Software developer in Palestine. Builds web applications, AI integrations, CRM systems, and workflow automation.</desc>
+<rect x="1" y="1" width="528" height="358" rx="18" fill="#0b121c" stroke="#223041"/>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.line{animation:enter .5s ease both}@keyframes enter{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.line{animation:none}.portrait text{clip-path:none}}</style>
+<circle cx="24" cy="24" r="4" fill="#ff6b6b"/><circle cx="39" cy="24" r="4" fill="#e9b45c"/><circle cx="54" cy="24" r="4" fill="#79f2be"/>
+<text x="506" y="28" text-anchor="end" fill="#71869d" font-size="10">ali@github ~</text>
+<text class="line" x="26" y="76" fill="#eef5ff" font-size="29" font-weight="700">Ali Sohail</text>
+<text class="line" x="27" y="101" fill="#79f2be" font-size="13" style="animation-delay:.1s">Software Developer &amp; Digital Entrepreneur</text>
+<path d="M26 119H504" stroke="#223041"/>
+<g class="line" style="animation-delay:0.2s"><text x="27" y="151" fill="#71869d" font-size="12">Based</text><text x="105" y="151" fill="#d8e3ef" font-size="12">Palestine</text></g>
+<g class="line" style="animation-delay:0.3s"><text x="27" y="178" fill="#71869d" font-size="12">Focus</text><text x="105" y="178" fill="#d8e3ef" font-size="12">Web apps · AI integrations · Automation</text></g>
+<g class="line" style="animation-delay:0.4s"><text x="27" y="205" fill="#71869d" font-size="12">Build</text><text x="105" y="205" fill="#d8e3ef" font-size="12">CRM systems &amp; digital commerce</text></g>
+<g class="line" style="animation-delay:0.5s"><text x="27" y="232" fill="#71869d" font-size="12">Stack</text><text x="105" y="232" fill="#d8e3ef" font-size="12">TypeScript · React · Next.js · Python</text></g>
+<g class="line" style="animation-delay:0.6s"><text x="27" y="259" fill="#71869d" font-size="12">Data</text><text x="105" y="259" fill="#d8e3ef" font-size="12">PostgreSQL · APIs · RAG</text></g>
+<g class="line" style="animation-delay:0.7s"><text x="27" y="286" fill="#71869d" font-size="12">Now</text><text x="105" y="286" fill="#d8e3ef" font-size="12">Nursing AI · Alosh Store · Subbyte</text></g>
+<path d="M26 311H504" stroke="#223041"/>
+<text class="line" x="27" y="339" fill="#79f2be" font-size="11" style="animation-delay:.9s">$ turning ideas into useful software<tspan fill="#eef5ff"> ▋</tspan></text>
+</svg>
