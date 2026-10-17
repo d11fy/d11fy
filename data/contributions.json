@@ -2,13 +2,13 @@
   "username": "d11fy",
   "period": [
     "2025-10-12",
-    "2026-10-16"
+    "2026-10-17"
   ],
   "stats": {
-    "total": 527,
-    "active_days": 82,
-    "longest_streak": 20,
-    "current_streak": 20
+    "total": 533,
+    "active_days": 83,
+    "longest_streak": 21,
+    "current_streak": 21
   },
   "days": [
     {
@@ -1858,8 +1858,13 @@
     },
     {
       "date": "2026-10-16",
-      "level": 2,
-      "count": 9
+      "level": 3,
+      "count": 12
+    },
+    {
+      "date": "2026-10-17",
+      "level": 1,
+      "count": 3
     }
   ]
 }
