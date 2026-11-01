@@ -1,51 +1,16 @@
 {
   "username": "d11fy",
   "period": [
-    "2025-10-26",
-    "2026-10-31"
+    "2025-11-02",
+    "2026-11-01"
   ],
   "stats": {
-    "total": 642,
-    "active_days": 94,
+    "total": 648,
+    "active_days": 95,
     "longest_streak": 27,
-    "current_streak": 1
+    "current_streak": 2
   },
   "days": [
-    {
-      "date": "2025-10-26",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-27",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-28",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-29",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-30",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-31",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-01",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-02",
       "level": 0,
@@ -1863,6 +1828,11 @@
     },
     {
       "date": "2026-10-31",
+      "level": 1,
+      "count": 6
+    },
+    {
+      "date": "2026-11-01",
       "level": 0,
       "count": 0
     }
