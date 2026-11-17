@@ -2,10 +2,10 @@
   "username": "d11fy",
   "period": [
     "2025-11-16",
-    "2026-11-16"
+    "2026-11-17"
   ],
   "stats": {
-    "total": 707,
+    "total": 722,
     "active_days": 101,
     "longest_streak": 27,
     "current_streak": 2
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-30",
-      "level": 3,
+      "level": 2,
       "count": 20
     },
     {
@@ -1673,7 +1673,7 @@
     },
     {
       "date": "2026-10-14",
-      "level": 3,
+      "level": 2,
       "count": 20
     },
     {
@@ -1703,7 +1703,7 @@
     },
     {
       "date": "2026-10-20",
-      "level": 2,
+      "level": 1,
       "count": 10
     },
     {
@@ -1838,8 +1838,13 @@
     },
     {
       "date": "2026-11-16",
-      "level": 3,
-      "count": 27
+      "level": 4,
+      "count": 42
+    },
+    {
+      "date": "2026-11-17",
+      "level": 0,
+      "count": 0
     }
   ]
 }
